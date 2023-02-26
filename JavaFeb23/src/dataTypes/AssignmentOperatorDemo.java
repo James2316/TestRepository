@@ -14,8 +14,7 @@ public class AssignmentOperatorDemo {
 		 * Examples:
 		 */
 		int a = 87;
-		int result = a-7;
-		int result1 = a/7;
+	  
 		System.out.println(a+=7);//94
 		System.out.println(a-=7);//80
 		System.out.println(a*=7);//609
@@ -30,3 +29,9 @@ public class AssignmentOperatorDemo {
 	}
 
 }
+
+
+
+
+
+
