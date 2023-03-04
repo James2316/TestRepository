@@ -4,7 +4,7 @@ public class WhileLoop {
 
 	public static void main(String[] args) {
 		
-		
+		// this is an example of a control statement
 		String place = "Brooklyn";
 		int start = 1;
 		

@@ -13,6 +13,8 @@ public class AssignmentOperatorDemo {
 		 * a%=7 means a = a%7
 		 * Examples:
 		 */
+		
+		// this is an example of control statement
 		int a = 87;
 	  
 		System.out.println(a+=7);//94
